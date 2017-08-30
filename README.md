@@ -2,6 +2,10 @@
 
 ziVA + Triple_Fetch but not compiled together
 
+# What is ziVA and what is Triple Fetch?
+
+ziVA is a kernel exploit released by @doadam on twitter and Triple_Fetch is a sandbox escape released by Ian Beer from Project Zero.
+
 # Added
 
 IOKit and Offsets added to ziVA.
